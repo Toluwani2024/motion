@@ -1,0 +1,18 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Node
+node_modules/
+dist/
+
+# Secrets and local config
+.env
+.env.*
+appsettings.Development.json
+*.pfx
+
+# macOS
+.DS_Store
